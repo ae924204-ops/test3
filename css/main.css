@@ -1,0 +1,22 @@
+.navbar{
+    background: linear-gradient(brown,yellow);
+}
+.home{
+    background-image: url(../img/TEST1.png);
+    height: 100vh;
+    background-size: 100%;
+}
+.layout{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+.hr{
+    background:linear-gradient(red,black) ;
+    width: 30%;
+    height: 3px;
+    margin: auto;
+    border-radius: 50%;
+}
+body{
+    height: 4000px;
+}
